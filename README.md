@@ -2,59 +2,53 @@
 
 This is an interactive music dashboard built with **Streamlit**, showcasing insights from the **Top 10,000 Spotify Songs (1950-Now)** dataset.
 
-## 📌 Features
-
-- 🎨 Multi-select Genre Filters  
-- 📅 Year Slider  
-- ⭐ Popularity Range Slider  
-- 📊 Color-coded Scatter Plot  
-- 🧠 Most Popular Artist & Average Danceability  
-- 📈 Genre Distribution Pie Chart  
-- 🔗 Clickable Playlist Table (Spotify links)  
-- 🎧 Audio Previews for Songs  
-
-## 📸 Preview
-
-<img width="1920" height="991" alt="preview-1" src="https://github.com/user-attachments/assets/c5e59420-bfaa-482e-a5fb-9e5728bd5582" />
-<img width="1920" height="984" alt="preview-2" src="https://github.com/user-attachments/assets/f2177759-1cb4-4c7a-876a-413f5bfba718" />
-<img width="1920" height="994" alt="preview-3" src="https://github.com/user-attachments/assets/1a26393d-73a3-4bcf-b7f9-4ce4b6d17825" />
-
-
-
-
-
-
-## 🚀 Technologies Used
-
-- **Python**
-- **Streamlit**
-- **Pandas**
-- **Matplotlib** & **Plotly**
-- **Streamlit Components**
-
-## 📂 Files
-
-| File | Purpose |
-|------|---------|
-| `app.py` | Main Streamlit app |
-| `requirements.txt` | Required Python packages |
-| `top_10000_1950-now.csv` | Dataset |
-| `preview.png` | Dashboard image |
+Explore popular songs across genres, years, and popularity levels. The dashboard includes visualizations, interactive filtering, audio previews, and dynamic charts.
 
 ---
 
-## 💡 Approach
+## 🌐 Live App
 
-1. Cleaned & explored the dataset
-2. Built filters (Genre, Year, Popularity)
-3. Added visualizations (scatter + pie)
-4. Integrated Spotify links + audio previews
-5. Improved UI/UX with markdown, emojis, and sections
+▶️ [Click here to try the dashboard live](https://spotify-dashboard-using-app-yrhz6ao3dxtjqwjbpedhsj.streamlit.app/)  
+*(replace this with your Streamlit Cloud link)*
 
 ---
 
-## 🛠️ Run Locally
+## 🚀 Features
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+- 🎯 Filter songs by genre(s), year, and popularity range.
+- 📊 Color-coded scatter chart: Popularity vs Energy.
+- 🎵 Audio previews of songs.
+- 📑 Playlist Table with clickable Spotify links.
+- 📈 Genre Distribution Pie Chart.
+- 📄 Expandable raw data view.
+- ✨ Clean dark UI with emojis and headings.
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool        | Purpose                         |
+|-------------|---------------------------------|
+| Streamlit   | Web app framework               |
+| Pandas      | Data manipulation               |
+| Matplotlib  | Genre pie chart                 |
+| Plotly      | Interactive scatter plot        |
+| WordCloud   | (optional, fallback pie used)   |
+| NumPy       | Data processing                 |
+| Tabulate    | Playlist Markdown rendering     |
+
+---
+
+## 📁 Dataset
+
+Top 10,000 Spotify Songs (1950–Now)  
+Available in repo: `top_10000_1950-now.csv`
+
+---
+
+## 🖥️ How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Aditya-ARC/Spotify-dashboard-using-streamlit.git
+   cd Spotify-dashboard-using-streamlit
