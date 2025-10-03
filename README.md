@@ -6,8 +6,7 @@ Explore popular songs across genres, years, and popularity levels. The dashboard
 
 ---
 ## 📸 Preview
-
-![Dashboard Preview](<img width="1920" height="911" alt="preview" src="https://github.com/user-attachments/assets/7147ceb6-8b23-4663-a044-9a1177644f41" />)
+(<img width="1920" height="911" alt="preview" src="https://github.com/user-attachments/assets/7147ceb6-8b23-4663-a044-9a1177644f41" />)
 
 
 ## 🌐 Live App
