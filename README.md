@@ -1,6 +1,6 @@
 # 🎧 Spotify Top 10,000 Songs Dashboard
 
-This is an interactive music dashboard built with **Streamlit**, showcasing insights from the **Top 10,000 Spotify Songs (1950-Now)** dataset.
+This is an interactive music dashboard built with **Streamlit**, showcasing insights from the **Top 10,000 Spotify Songs (upto 2016)** dataset.
 
 Explore popular songs across genres, years, and popularity levels. The dashboard includes visualizations, interactive filtering, audio previews, and dynamic charts.
 
@@ -43,7 +43,7 @@ Explore popular songs across genres, years, and popularity levels. The dashboard
 
 ## 📁 Dataset
 
-Top 10,000 Spotify Songs (1950–Now)  
+Top 10,000 Spotify Songs (upto 2016)  
 Available in repo: `top_10000_1950-now.csv`
 
 ---
