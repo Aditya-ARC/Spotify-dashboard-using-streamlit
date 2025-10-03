@@ -9,7 +9,6 @@ Explore popular songs across genres, years, and popularity levels. The dashboard
 ## 🌐 Live App
 
 ▶️ [Click here to try the dashboard live](https://spotify-dashboard-using-app-yrhz6ao3dxtjqwjbpedhsj.streamlit.app/)  
-*(replace this with your Streamlit Cloud link)*
 
 ---
 
