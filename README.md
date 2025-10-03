@@ -15,10 +15,11 @@ This is an interactive music dashboard built with **Streamlit**, showcasing insi
 
 ## 📸 Preview
 
-![Dashboard Preview](<img width="1920" height="653" alt="preview-1" src="https://github.com/user-attachments/assets/d28cfdcf-4fa8-4f86-9acd-d72fb31bd551" />) 
-<img width="1920" height="912" alt="preview-2" src="https://github.com/user-attachments/assets/11651007-720c-4a44-834a-64c1f9d870ef" /> 
-<img width="1920" height="896" alt="preview-3" src="https://github.com/user-attachments/assets/232ed6f7-c584-4cd4-9f2f-0fc083162528" /> 
-<img width="1920" height="908" alt="preview-4" src="https://github.com/user-attachments/assets/94318cd4-b9f9-485b-8405-3fceef34a08e" />
+<img width="1920" height="991" alt="preview-1" src="https://github.com/user-attachments/assets/c5e59420-bfaa-482e-a5fb-9e5728bd5582" />
+<img width="1920" height="984" alt="preview-2" src="https://github.com/user-attachments/assets/f2177759-1cb4-4c7a-876a-413f5bfba718" />
+<img width="1920" height="994" alt="preview-3" src="https://github.com/user-attachments/assets/1a26393d-73a3-4bcf-b7f9-4ce4b6d17825" />
+
+
 
 
 
