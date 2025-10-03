@@ -5,3 +5,5 @@ altair
 wordcloud
 plotly
 numpy
+tabulate
+
