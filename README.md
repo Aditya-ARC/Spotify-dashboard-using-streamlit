@@ -5,6 +5,10 @@ This is an interactive music dashboard built with **Streamlit**, showcasing insi
 Explore popular songs across genres, years, and popularity levels. The dashboard includes visualizations, interactive filtering, audio previews, and dynamic charts.
 
 ---
+## 📸 Preview
+
+![Dashboard Preview](<img width="1920" height="911" alt="preview" src="https://github.com/user-attachments/assets/7147ceb6-8b23-4663-a044-9a1177644f41" />)
+
 
 ## 🌐 Live App
 
@@ -45,9 +49,3 @@ Available in repo: `top_10000_1950-now.csv`
 
 ---
 
-## 🖥️ How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Aditya-ARC/Spotify-dashboard-using-streamlit.git
-   cd Spotify-dashboard-using-streamlit
